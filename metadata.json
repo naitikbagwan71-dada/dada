@@ -1,0 +1,6 @@
+{
+  "name": "HalAi",
+  "description": "HalAi is a dedicated, distraction-free study helper designed to assist with Math, Physics, and other STEM subjects using Gemini 3.5-flash. Features language localization, notification blocking (Focus Mode), photo uploads for scanning, text-to-speech explanations, and clean Google Gemini-inspired neon dark aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
